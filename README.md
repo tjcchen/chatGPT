@@ -10,9 +10,9 @@ Elaborates on steps about how to register chatGPT account within China mainland.
 
 3、One pivotal thing is that you'll need a foreign phone number to activite your account, please try to use this site: https://sms-activate.org/;
 
-4、Please also refer to this guide with regard to receive message and activate your account: https://sms-activate.org/en/info/ChatGPT.
+4、Please also refer to this guide with regard to receiving the message and activating your account: https://sms-activate.org/en/info/ChatGPT.
 
-Once you are done, please the enjoy the state-of-the-art technology.
+Once you are done, please enjoy the state-of-the-art AI chat technology.
 
 ### License
 Apache 2.0
