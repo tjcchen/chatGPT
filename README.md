@@ -14,5 +14,7 @@ Elaborates on steps about how to register chatGPT account within China mainland.
 
 Once you are done, please enjoy the state-of-the-art AI chat technology.
 
+NB: when using services from `sms-activate`, I choose a location of England to successfully retrive my activation code.
+
 ### License
 Apache 2.0
